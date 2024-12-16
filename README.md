@@ -1,2 +1,5 @@
-# Advent of Code 2022
-My encounters with [the coolest advent calendar on the Internet](https://adventofcode.com) in 2022
+# Advent of Code
+My encounters with [the coolest advent calendar on the Internet](https://adventofcode.com)
+
+- [2022](./22)
+- [2024](./24/)
